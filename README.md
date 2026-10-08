@@ -1,7 +1,5 @@
 # Function Name Recovery via Self-Transformative and Variable-Enrichment Approaches
 
-## Repository Contents
-
 ## Running Steps
 ### Decompile Binaries
 The related scripts are in the folder [`dataset_generation`](dataset_generation).
